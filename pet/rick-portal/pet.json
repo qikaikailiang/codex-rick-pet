@@ -1,0 +1,6 @@
+{
+  "id": "rick-portal",
+  "displayName": "Rick Portal",
+  "description": "A Codex pet based directly on the provided pixel-art Rick with portal gun and green portal.",
+  "spritesheetPath": "spritesheet.webp"
+}
