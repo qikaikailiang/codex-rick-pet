@@ -1,5 +1,7 @@
 # Codex Rick Pet
 
+![Codex Pet Hero](assets/github/hero.png)
+
 一个可直接导入 Codex 的自定义 Pet 示例仓库，角色基于《Rick and Morty》中的 Rick。
 
 仓库内容包括：
